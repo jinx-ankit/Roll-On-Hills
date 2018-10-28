@@ -1,7 +1,7 @@
 ![](poster.png)
 
 # PROJECT TITLE:   RollOnHills
-# AUTHORS:         Sckorpio
+
 # VERSION or DATE: March,2018
 
 # DESCRIPTION:
